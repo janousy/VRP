@@ -7,7 +7,7 @@ A possible solution is found through genetic algorithms. Of course, other method
 
 ## Installation
 
-We recommend to use a Python version > 3.7. There is a dependency of matplotlib, which can be installed with `pip install -r requirements.txt`. To run the script, use `python vrp.py`. If a run takes too long, consider reducing the `NO_GENERATIONS` or the problem size in general. The output is the runtime, the route and weight of each truck and a plot visualising the solution.
+Use a Python version > 3.7. There is a dependency of matplotlib, which can be installed with `pip install -r requirements.txt`. To run the script, use `python vrp.py`. If a run takes too long, consider reducing the `NO_GENERATIONS` or the problem size in general. The output is the runtime, the route and weight of each truck and a plot visualising the solution.
 
 ***
 
