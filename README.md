@@ -1,5 +1,5 @@
 # VRP
-This repository holds a example solution to the well-known Vehicle Routing problem [1]. Given a number of trucks starting at a common station and stops defined by (x,y)-coordinates, the optimal routes that minimise the driven distance have to be determined. Each truck has a load capacity, and each stop has a certain weight which needs to be picked up. The trucks may not exceed their load capacity and need to return to the initial station.
+This repository holds an example solution to the well-known Vehicle Routing problem [1]. Given a number of trucks starting at a common station and stops defined by (x,y)-coordinates, the optimal routes that minimise the driven distance have to be determined. Each truck has a load capacity, and each stop has a certain weight which needs to be picked up. The trucks may not exceed their load capacity and need to return to the initial station.
 
 ![Example Solution](resources/routes.png)
 
